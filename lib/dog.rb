@@ -27,7 +27,5 @@ end
  def save
     @@all << self
  end
- 
   Dog.all
-  
 end
